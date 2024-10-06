@@ -1,0 +1,23 @@
+/* .com-page{
+    background-color: aqua;
+} */
+
+.drive-Heading {
+    text-align: center;
+    background-color: rgb(239, 243, 243);
+    /* margin: 2rem; */
+    padding: 2rem;
+    font-size: xxx-large;
+    font-family: math;
+    font-weight: lighter;
+}
+.cards {
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+    /* background-color: #ebe7e7; */
+}
+
+.css-1ri6ub7-MuiPaper-root-MuiCard-root {
+    background-color: bisque !important;
+}
